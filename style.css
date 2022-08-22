@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 
-.ALL {
+.home {
   box-sizing: border-box;
   display: flex;
   justify-content: center;
@@ -20,7 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 350px;
+  width: 345px;
   background: hsl(0, 0%, 100%);
   border-radius: 30px;
   text-align: center;
