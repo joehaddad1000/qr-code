@@ -37,15 +37,16 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
-.text h2 {
+.text h1 {
   margin-block-start: 0;
   color: hsl(218, 44%, 22%);
   font-weight: 700;
+  font-size: 24px;
 }
 
 .text p {
   color: hsl(220, 15%, 55%);
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 400;
 }
 
